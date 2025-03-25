@@ -6,6 +6,7 @@ public class E01FlattenBT {
         if (root == null) {
             return;
         }
+        //si
 
         // Llamar recursivamente para aplanar los subárboles izquierdo y derecho
         flatten(root.left);
